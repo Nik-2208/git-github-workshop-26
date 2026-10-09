@@ -6,11 +6,10 @@
     "Artificial Intelligence",
     "Machine Learning",
     "Generative AI",
-    "Python",
-    "Edge AI"
+    "Python"
   ],
   "batch_year": 2029,
-  "language": "Python",
+  "language": "Python","C","Java",
   "link": "https://nik-portfolio-lime.vercel.app",
   "fun_fact": "I like turning crazy AI ideas into working prototypes."
 }
