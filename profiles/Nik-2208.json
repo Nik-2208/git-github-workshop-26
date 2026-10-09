@@ -9,7 +9,7 @@
     "Python"
   ],
   "batch_year": 2029,
-  "language": ["Python", "C", "Java"],
+  "language": "Python",
   "link": "https://nik-portfolio-lime.vercel.app",
   "fun_fact": "I like turning crazy AI ideas into working prototypes."
 }
